@@ -333,8 +333,13 @@ section {
 }
 
 .youtube-icon {
-  width: 40px;
-  height: 40px;
+  width: 130px;
+  height: 100px;
+  margin-right: 15px;
+}
+.Git-icon {
+  width: 130px;
+  height: 110px;
   margin-right: 15px;
 }
 
